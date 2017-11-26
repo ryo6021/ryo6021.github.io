@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Asciidoc on ryo blog</title>
-    <link>http://example.org/tags/asciidoc/</link>
+    <link>https://ryo6021.github.io/tags/asciidoc/</link>
     <description>Recent content in Asciidoc on ryo blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Sun, 26 Nov 2017 12:58:36 +0900</lastBuildDate>
     
-	<atom:link href="http://example.org/tags/asciidoc/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ryo6021.github.io/tags/asciidoc/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>20171126</title>
-      <link>http://example.org/post/20171126/</link>
+      <link>https://ryo6021.github.io/post/20171126/</link>
       <pubDate>Sun, 26 Nov 2017 12:58:36 +0900</pubDate>
       
-      <guid>http://example.org/post/20171126/</guid>
+      <guid>https://ryo6021.github.io/post/20171126/</guid>
       <description>楽に書きたい 会社で書類を作るときは基本的に Word か Excel を使っています。 しかし、見た目の統一感を出すのに手間がかかることが多いと感じます。 軽量マーク</description>
     </item>
     

@@ -3,41 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/post/20171126/</loc>
+    <loc>https://ryo6021.github.io/post/20171126/</loc>
     <lastmod>2017-11-26T12:58:36+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/asciidoc/</loc>
-    <lastmod>2017-11-26T12:58:36+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/post/</loc>
+    <loc>https://ryo6021.github.io/tags/asciidoc/</loc>
     <lastmod>2017-11-26T12:58:36+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/redpen/</loc>
+    <loc>https://ryo6021.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryo6021.github.io/post/</loc>
     <lastmod>2017-11-26T12:58:36+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://ryo6021.github.io/tags/redpen/</loc>
     <lastmod>2017-11-26T12:58:36+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://ryo6021.github.io/tags/</loc>
+    <lastmod>2017-11-26T12:58:36+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryo6021.github.io/</loc>
     <lastmod>2017-11-26T12:58:36+09:00</lastmod>
     <priority>0</priority>
   </url>
